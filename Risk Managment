@@ -1,4 +1,68 @@
-Identify Risks: List potential threats (e.g., phishing, ransomware, insider threats, DDoS).
-Assess Risks: Rank them (High/Medium/Low) based on likelihood and impact.
-Mitigation Strategies: What policies, tools, or training will reduce these risks?
-Incident Response Plan: How will your company detect, respond, and recover from an attack?
+Potential threats,Phising, ransome, Zero Day Exploits,Third Party Vendor Breach, DDoS, insider threats.
+Threat	Likelihood	Impact	Risk Level
+Phishing	High	High	High
+Ransomware	Medium	High	High
+Insider Threats	Medium	Medium	Medium
+DDoS Attacks	Medium	Medium	Medium
+Weak Passwords  Credential Theft	High	Medium	High
+Policies Rules
+
+Strong passwords: Make passwords long and not easy to guess.
+
+2-Step Login MFA: Use a code along with the password.
+
+Limit access: Only let people see what they truly need for their job.
+
+Backup rule: Save copies of files often in case something gets deleted or hacked.
+
+Update rule: Keep computers and apps updated so hackers can’t use old flaws.
+
+Tools Stuff We Use
+
+Antivirus: Stops bad software.
+
+Firewall: Blocks bad internet traffic.
+
+Spam Filter: Helps stop fake scam emails.
+
+Backup System: Lets us restore files if something goes wrong.
+
+Password Manager: Helps create strong passwords and save them.
+
+Training Teaching People
+
+How to spot fake emails: Don’t click random links or open weird emails.
+
+Don’t share passwords: Keep your password to yourself.
+
+Check before trusting: If something feels weird, ask or report it.
+
+Lock your screen: Don’t leave work devices open.
+Incident Response Plan
+1. Detect Find the Problem
+
+We watch for strange activity on our computers.
+
+Workers report anything that looks suspicious (weird email, slow computer, files missing).
+
+Security tools alert us if something is wrong.
+
+2. Respond Take Action Fast
+
+Step 1: Disconnect the affected computer from the internet to stop the attack from spreading.
+
+Step 2: Our IT team checks what happened and removes the virus or hacker.
+
+Step 3: Change passwords and block the attacker’s access.
+
+Step 4: Tell everyone involved what happened and what to do next.
+
+3. Recover Get Back to Normal
+
+Restore files and systems from backups (saved copies).
+
+Test computers to make sure the threat is gone.
+
+Help workers get back to work safely.
+
+Review what went wrong and fix the weak spots so it doesn’t happen again.
