@@ -1,4 +1,4 @@
-Network Design: 
+Network Design: Internet -> firewall -> router -> firwall -> server or switch -> server or pc -> firewall -> server or pc.   
 Access Control: Our company's access controls will mainly be role-based. 
 Authentication: For authentication we will apply password policies like MFA, SSO, accountlock out, password uniqueness, secure password storage, and much more.  
 Monitoring & Logging: We will monitor systems that have to deal with user authentication, password policies, and access control. We will detect anomalies by implementing an autoscan system that would scan all files and other things alike to see if there are any issues that are detected.
