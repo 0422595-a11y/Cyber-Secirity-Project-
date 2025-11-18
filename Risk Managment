@@ -1,72 +1,78 @@
 Potential threats : 
 
-1. Phishing Attacks: Phony emails or websites pretending to be trustworthy to steal sensitive information. 
+1. Phishing Attacks: Phony emails or websites pretending to be trustworthy to steal sensitive information. (Targeting customers and employees)
 
-2. Man-in-the-Middle (MitM) Attacks: Intercepting communications between two parties to listen or change them. (  is a type of cyberattack
- is a type of cyberattack where an attacker secretly intercepts and manipulates communication between two parties without their knowledge.)
+2. Ransomeware : attempting to infect devices your sowftware protects and to block access to a computer system or encrypt its data 
+until a ransom is paid.
 
-3. 
-
-
-
+3. DDos : trying to take your service or servers offline and target servers, service, or network by overwhelming it with a flood of 
+internet traffic.
 
 
-Strong passwords: Make passwords long and not easy to guess.
 
-2-Step Login MFA: Use a code along with the password.
 
-Limit access: Only let people see what they truly need for their job.
 
-Backup rule: Save copies of files often in case something gets deleted or hacked.
+Assests Risk: 
 
-Update rule: Keep computers and apps updated so hackers can’t use old flaws.
+High Risks: Phishing attacks and Ransomware.
 
-Tools Stuff We Use
+Medium Risk : DDos attacks
 
-Antivirus: Stops bad software.
+Low Risks: An (Insider Threat) cybersecurity risks originating from individuals within an organization.(Less common but still possible)
 
-Firewall: Blocks bad internet traffic.
 
-Spam Filter: Helps stop fake scam emails.
 
-Backup System: Lets us restore files if something goes wrong.
 
-Password Manager: Helps create strong passwords and save them.
 
-Training Teaching People
 
-How to spot fake emails: Don’t click random links or open weird emails.
 
-Don’t share passwords: Keep your password to yourself.
+Mitigation Strategies: Some policies we can use to avoid some of these risks.
 
-Check before trusting: If something feels weird, ask or report it.
+1. Strong security policies
 
-Lock your screen: Don’t leave work devices open.
-Incident Response Plan
-1. Detect Find the Problem
+- Strong passwords: Make passwords long and not easy to guess. 
 
-We watch for strange activity on our computers.
+- 2-Step Login MFA: Use a code along with the password.
 
-Workers report anything that looks suspicious (weird email, slow computer, files missing).
 
-Security tools alert us if something is wrong.
+2. Employee cybersecurity prevention
 
-2. Respond Take Action Fast
+- Limit access: Only let people see what they truly need for their job.
 
-Step 1: Disconnect the affected computer from the internet to stop the attack from spreading.
+- Backup rule: Save copies of files often in case something gets deleted or hacked.
 
-Step 2: Our IT team checks what happened and removes the virus or hacker.
 
-Step 3: Change passwords and block the attacker’s access.
+3. Regular Software Updates
 
-Step 4: Tell everyone involved what happened and what to do next.
+- Update rule: Keep computers and apps updated so hackers can’t use old flaws.
 
-3. Recover Get Back to Normal
 
-Restore files and systems from backups saved copies.
+Networking & Monitoring Systems
 
-Test computers to make sure the threat is gone.
+- Antivirus: Stops bad software.
 
-Help workers get back to work safely.
+- Firewall: Blocks bad internet traffic.
 
-Review what went wrong and fix the weak spots so it doesn’t happen again.
+- Spam Filter: Helps stop fake scam emails.
+
+
+
+
+
+
+
+
+Incident Respond Plan
+
+1. Detect 
+- Use real-time monitoring, alerts, and threat anaylsis tools.
+
+2. Responding 
+- Contain the threat , isolate infected devices, and block maliciuos traffic.
+
+3. Recovering 
+- Restore systems from backups, remove malware, and patch vulnerabilities.
+
+4. Review & Imporve
+- Analyze what happend and update policies, tools, or training for employees.
+
