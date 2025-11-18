@@ -1,8 +1,3 @@
-Critical Systems:Power & Energy grid control Systems, Emergency services systems 
-Backup Strategy:
-Recovery Time Objective:
-Recovery Point Objective:
-Communication plan: 
 Critical Systems:  The systems that must stay on at all times includes: Power & Energy grid control Systems, Emergency services systems, Firewall, password authentication, data cloud storage/database, and backup computer systems. 
 Backup Strategy: Our backup strategy would be cloud stored information and different storage locations. 
 Recovery Time Objective: Systems must be restored quickly. Around 1-3 days our systems must be restored by then. 
