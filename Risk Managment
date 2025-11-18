@@ -1,11 +1,15 @@
-Potential threats,Phising, ransome, Zero Day Exploits,Third Party Vendor Breach, DDoS, insider threats.
-Threat	Likelihood	Impact	Risk Level
-Phishing	High	High	High
-Ransomware	Medium	High	High
-Insider Threats	Medium	Medium	Medium
-DDoS Attacks	Medium	Medium	Medium
-Weak Passwords  Credential Theft	High	Medium	High
-Policies Rules
+Potential threats : 
+
+1. Phishing Attacks: Phony emails or websites pretending to be trustworthy to steal sensitive information. 
+
+2. Man-in-the-Middle (MitM) Attacks: Intercepting communications between two parties to listen or change them. (  is a type of cyberattack
+ is a type of cyberattack where an attacker secretly intercepts and manipulates communication between two parties without their knowledge.)
+
+3. 
+
+
+
+
 
 Strong passwords: Make passwords long and not easy to guess.
 
